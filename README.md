@@ -1,4 +1,4 @@
-[![My GitHub](https://github-readme-stats.vercel.app/api?username=hugetiny)]()
+[![My GitHub]([https://github-readme-stats.vercel.app/api?username=hugetiny](https://github-readme-stats-one-bice.vercel.app/api?username=hugetiny))]()
 
 <!--
 **hugetiny/hugetiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
